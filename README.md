@@ -1,0 +1,2 @@
+# GIGABYTE--B760I-AORUS-PRO-DDR4-HACKINTOSH-BIOS
+刷入此bios即可免去硬盘和U盘引导直接安装macOS系统
